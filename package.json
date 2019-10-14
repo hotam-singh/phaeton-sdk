@@ -1,0 +1,34 @@
+{
+	"name": "phaeton-sdk",
+	"version": "2.3.6",
+	"description": "Official SDK for the Phaeton blockchain application platform",
+	"author": "Phaeton Foundation <admin@phaeton.io>, lightcurve GmbH <admin@lightcurve.io>",
+	"license": "Apache-2.0",
+	"keywords": [
+		"phaeton",
+		"blockchain"
+	],
+	"homepage": "https://github.com/PhaetonHQ/phaeton-sdk#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PhaetonHQ/phaeton-sdk.git"
+	},
+	"bugs": {
+		"url": "https://github.com/PhaetonHQ/phaeton-sdk/issues"
+	},
+	"engines": {
+		"node": ">=10.4 <=10",
+		"npm": ">=6"
+	},
+	"main": "src/index.js",
+	"dependencies": {
+		"@phaetonhq/bignum": "1.3.1",
+		"@phaetonhq/phaeton-cryptography": "2.3.0",
+		"@phaetonhq/phaeton-transactions": "2.3.1",
+		"phaeton-framework": "0.4.6"
+	}
+
+,"_resolved": "https://registry.npmjs.org/phaeton-sdk/-/phaeton-sdk-2.3.6.tgz"
+,"_integrity": "sha512-5Toz6FGYrUJA3huw2gPOIRij5CnPfnRcVylDHjeW2NrLj1IRhURefdgWKzNGFUF+jJety+Gb7lJjMFFmEVjlBQ=="
+,"_from": "phaeton-sdk@2.3.6"
+}
