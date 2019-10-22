@@ -23,9 +23,9 @@
 	"main": "src/index.js",
 	"dependencies": {
 		"bignum": "git+https://git@github.com/hotam-singh/bignum.git",
-		"@phaetonhq/phaeton-cryptography": "2.3.0",
-		"@phaetonhq/phaeton-transactions": "2.3.1",
-		"phaeton-framework": "0.4.6"
+		"phaeton-cryptography": "git+https://git@github.com/hotam-singh/phaeton-cryptography.git",
+		"phaeton-transactions": "git+https://git@github.com/hotam-singh/phaeton-transactions.git",
+		"phaeton-framework": "git+https://git@github.com/hotam-singh/phaeton-framework.git"
 	}
 
 ,"_resolved": "https://registry.npmjs.org/phaeton-sdk/-/phaeton-sdk-2.3.6.tgz"
