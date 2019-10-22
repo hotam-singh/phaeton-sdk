@@ -173,7 +173,7 @@ Before testing local changes to `phaeton-sdk/elements`, follow the above steps f
    a. To build all packages: `npm run build`
 
    b. To build specific package: `lerna run build --scope <package name>`
-   Example: `lerna run build --scope @phaetonhq/phaeton-p2p`
+   Example: `lerna run build --scope phaeton-p2p`
 
    c. To build packages that have been modified in your branch: `lerna run build --since <branch name>`
    Example:`lerna run build --since development`

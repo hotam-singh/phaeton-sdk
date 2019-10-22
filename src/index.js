@@ -14,9 +14,9 @@
 
 'use strict';
 
-const BigNum = require('@phaetonhq/bignum');
-const cryptography = require('@phaetonhq/phaeton-cryptography');
-const transactions = require('@phaetonhq/phaeton-transactions');
+const BigNum = require('bignum');
+const cryptography = require('phaeton-cryptography');
+const transactions = require('phaeton-transactions');
 const {
 	Application,
 	version,
